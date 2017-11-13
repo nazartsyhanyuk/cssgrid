@@ -1,0 +1,1 @@
+Simple example of creating layout using native css grid and css variables 
